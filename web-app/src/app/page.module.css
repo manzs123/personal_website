@@ -1,0 +1,16 @@
+.outerWrap{
+    width: 100%;
+    height: 900px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.innerWrap{
+    width: 100%;
+    max-width: 1280px;
+    height: 900px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
