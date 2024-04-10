@@ -5,11 +5,6 @@ import Nav from "../component/nav";
 
 export default function About() {
   return (
-    <html>
-      <head>
-      <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
-      </head>
-      <body>
 
         <Box className={styles.outerWrap} component="section">
 
@@ -18,8 +13,5 @@ export default function About() {
           </Box>
 
         </Box>
-
-      </body>
-    </html>
   );
 }

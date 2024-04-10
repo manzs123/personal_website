@@ -1,9 +1,11 @@
+
 .outerWrap{
     width: 100%;
     height: 900px;
     display: flex;
     align-items: center;
     flex-direction: column;
+    background-color: #FFE6AC;
 }
 
 .innerWrap{
@@ -13,4 +15,20 @@
     display: flex;
     align-items: center;
     flex-direction: column;
+    gap: 120px;
+}
+
+.homeHeading{
+    display: flex;
+    flex-direction: column;
+    max-width: 400px;
+}
+
+.flexHori{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    align-items: center;
+    height: auto;
+    padding: 20px;
 }

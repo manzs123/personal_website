@@ -18,7 +18,7 @@ function Nav() {
             </Box>
             <Box sx={{
               display: 'flex',
-              gap: '12px',
+              gap: '20px',
             }}>
                 <Button href="/about">About</Button>
                 <Button href="/portfolio">Portfolio</Button>
